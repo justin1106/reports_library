@@ -1,0 +1,8 @@
+python-dotenv
+google-cloud-aiplatform
+protobuf<4.0.0  # Vertex AI와 호환되도록
+pocketbase
+requests
+streamlit
+extra-streamlit-components
+couchbase==4.1.7  # 최신 안정 버전 사용
